@@ -1,0 +1,5 @@
+{
+  "require": {
+    "vector/core": "^7.0"
+  }
+}
